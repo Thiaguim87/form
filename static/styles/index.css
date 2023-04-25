@@ -5,24 +5,26 @@ body{
 }
 
 .name {
-    font-size: 25px;
+    font-size: 1.5em;
     font-weight: bold;
     
 }
 
 .text-input{
-    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
     
 }
 
 .textarea{
-    font-size: 20px;
-    width: 400px;
-    height: 300px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.3em;
+    width: 20em;
+    height: 15em;
 }
 
 .btn{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
+    font-size: 1.3em;
     font-weight: bold;
 }
